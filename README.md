@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="./assets/github-streak.svg" alt="GitHub streak" />
-</div>
-
-<br />
-
 ### Contact
 
 <p>
