@@ -21,8 +21,8 @@
 
   <g text-anchor="middle">
     <circle cx="360" cy="72" r="42" stroke="#2f81f7" stroke-width="7" fill="none"/>
-    <path d="M360 20c7 8 8 17 1 25 1-8-7-11-7-20-9 8-15 18-10 30 4 11 15 15 26 11 13-5 17-21 7-34 2 10-5 15-13 11 5-7 4-14-4-23z" fill="#58a6ff"/>
-    <text x="360" y="82" class="num" fill="#c9d1d9">1</text>
+    <path d="M360 20 C367 27 369 36 363 44 C363 38 357 36 357 29 C351 35 349 43 353 49 C357 55 365 55 369 49 C373 43 371 36 366 31 C366 37 362 40 358 38 C362 33 363 27 360 20 Z" fill="#58a6ff"/>
+    <text x="360" y="86" class="num" fill="#c9d1d9">1</text>
     <text x="360" y="121" class="label">Current Streak</text>
     <text x="360" y="147" class="date">Jul 8</text>
   </g>
