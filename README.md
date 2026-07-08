@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=swe-rahmatulloh&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+  <img src="./assets/github-streak.svg" alt="GitHub streak" />
 </div>
 
 <br />
