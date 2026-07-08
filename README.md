@@ -13,5 +13,5 @@
 <br />
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/swe-rahmatulloh/swe-rahmatulloh/output/github-snake-2025-2026-dark.svg" alt="GitHub contribution snake" />
+  <img src="./assets/github-snake-2025-2026-dark.svg" alt="GitHub contribution snake" />
 </p>
